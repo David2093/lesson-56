@@ -33,5 +33,12 @@ body {
 .btn {
     display: flex;
     justify-content: center;
-    margin-top: 30;
+    margin-top: 50px;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    
 }
