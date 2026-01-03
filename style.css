@@ -1,0 +1,37 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.item {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+}
+
+.mega {
+    background-color: #008080;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 30;
+}
